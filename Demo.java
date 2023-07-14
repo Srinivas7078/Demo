@@ -1,2 +1,5 @@
-Helo maqin
-Good morning
+Class Text{
+public static void main(String[] args){
+System.out.println("Hello");
+}
+}
